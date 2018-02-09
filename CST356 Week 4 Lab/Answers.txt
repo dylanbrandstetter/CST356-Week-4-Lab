@@ -1,0 +1,6 @@
+﻿Exercise 1
+	4. The [Key] attribute tells EntityFramework that that property is the class's primary key.
+	7. Connection strings are used to determine where the actual database is, whether it is an online or local database, and provide some information about it, such as security information. They are needed in order to read and write from a database for obvious reasons.
+	14. The users I added did not disappear. Added required ints had a default value of 0, while added required strings had an empty string. Had they disappeared, I would imagine that it was because the table did not have data for those fields.
+Exercise 2
+	1. Using a view model separates unneeded information about the underlying entity from the interface used.
